@@ -1,0 +1,1 @@
+{"version":3,"sources":["analog_clock_face/db.cljs"],"mappings":";AAEA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAA,AAAKA,AAEI,AAAAC","names":["analog-clock-face.db/default-db","js/Date"],"sourcesContent":["(ns analog-clock-face.db)\n\n(def default-db\n  {:name \"re-frame\"\n   :time (js/Date.)\n   :time-color \"#f88\"})\n"]}

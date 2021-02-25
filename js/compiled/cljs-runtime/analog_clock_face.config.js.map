@@ -1,0 +1,1 @@
+{"version":3,"sources":["analog_clock_face/config.cljs"],"mappings":";AAEA,AAAKA,AACMC","names":["analog-clock-face.config/debug?","js/goog.DEBUG"],"sourcesContent":["(ns analog-clock-face.config)\n\n(def debug?\n  ^boolean goog.DEBUG)\n"]}
